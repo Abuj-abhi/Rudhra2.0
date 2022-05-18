@@ -28,8 +28,8 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
-     </div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0
+
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
